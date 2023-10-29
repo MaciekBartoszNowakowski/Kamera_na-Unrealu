@@ -1,0 +1,197 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A4DA04E4E6B125F7B303AA3A6BD7C4A BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1463157953 Label:BPI_Fade_Mesh_wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2800.000 Y=2520.000 Z=500.000), Max=(X=5715.001 Y=2540.000 Z=850.213) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:29F8B8A244DF1BE4918DE79C883B5190 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh.BPI_Fade_Mesh_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_C_UAID_FC3497DE3B9352B701_1982883841 Label:BPI_Fade_Mesh2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.000 Y=1005.000 Z=0.000), Max=(X=2650.000 Y=1855.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:36F165F044CE52B006AFA49BAE7CC1FE BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1464432954 Label:BPI_Fade_Mesh_wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2790.000 Y=4550.000 Z=0.000), Max=(X=5690.000 Y=4570.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3EFC8DCD4A625491ABE6E292721CA43F BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1449279140 Label:BPI_Fade_Mesh_wall9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5690.000 Y=2520.000 Z=500.000), Max=(X=5710.000 Y=4575.996 Z=849.932) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11990.000 Y=100.000 Z=0.000), Max=(X=12090.000 Y=12200.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:517F03394BF45FF567C792A7564634C8 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1475988958 Label:BPI_Fade_Mesh_wall7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5690.000 Y=2490.000 Z=0.000), Max=(X=5710.000 Y=4590.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5A14B2664FC04BB0D13595A8DE11E1C7 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_2014162962 Label:BPI_Fade_Mesh_floor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4805.517 Y=4150.000 Z=395.757), Max=(X=5308.939 Y=4550.000 Z=530.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:6E6431F3460F325AABF17D8A7B17CB8B BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1756370961 Label:BPI_Fade_Mesh_floor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5270.000 Y=3930.000 Z=410.000), Max=(X=5670.000 Y=4556.781 Z=430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F290CE9436A0549D34E5EA0FF7ACA28 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1434738139 Label:BPI_Fade_Mesh_wall8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2800.000 Y=4570.000 Z=500.000), Max=(X=5715.002 Y=4590.000 Z=850.213) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A4102F8F4FE2C6E5865003B21D334982 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1474196957 Label:BPI_Fade_Mesh_wall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2520.000 Z=520.000), Max=(X=2800.000 Y=4575.996 Z=847.939) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A56216954B2165CF0F35A886B537D536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=12275.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:AF050DE04A57DADD335262B87B461600 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1470815956 Label:BPI_Fade_Mesh_wall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4550.000 Y=4820.000 Z=0.000), Max=(X=4950.000 Y=4840.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BC08B79C4EA3C961CFF75EBBE83B367D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12125.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:BD93BBBA4EAB5A20C85683BE112581F3 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935FB701_1481674141 Label:BPI_Fade_Mesh_floor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2520.000 Z=850.000), Max=(X=5717.885 Y=4569.942 Z=870.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C5BB6F6E48D219DEDCD740BABD517A3C BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1465890955 Label:BPI_Fade_Mesh_wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4080.000 Y=4850.000 Z=0.000), Max=(X=4480.000 Y=4870.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7FFCC9B47D9B63114BB729BB2BB5F31 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1636932959 Label:BPI_Fade_Mesh_floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2510.000 Z=500.000), Max=(X=4780.000 Y=4573.029 Z=520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:E57BB630434167DFC750D9843A35AFE3 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1717804960 Label:BPI_Fade_Mesh_floor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5280.000 Y=2710.000 Z=-28.794), Max=(X=5680.000 Y=3938.441 Z=434.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=12125.000 Y=12225.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:F4A640E0424A41C7BBD0E0B4A2272261 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1419515952 Label:BPI_Fade_Mesh_wall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2790.000 Y=2500.000 Z=0.000), Max=(X=5690.000 Y=2520.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12170.000 Z=0.000), Max=(X=12100.000 Y=12270.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A4DA04E4E6B125F7B303AA3A6BD7C4A BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1463157953 Label:BPI_Fade_Mesh_wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2800.000 Y=2520.000 Z=500.000), Max=(X=5715.001 Y=2540.000 Z=850.213) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:29F8B8A244DF1BE4918DE79C883B5190 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh.BPI_Fade_Mesh_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_C_UAID_FC3497DE3B9352B701_1982883841 Label:BPI_Fade_Mesh2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.000 Y=1005.000 Z=0.000), Max=(X=2650.000 Y=1855.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:36F165F044CE52B006AFA49BAE7CC1FE BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1464432954 Label:BPI_Fade_Mesh_wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2790.000 Y=4550.000 Z=0.000), Max=(X=5690.000 Y=4570.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:3EFC8DCD4A625491ABE6E292721CA43F BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1449279140 Label:BPI_Fade_Mesh_wall9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5690.000 Y=2520.000 Z=500.000), Max=(X=5710.000 Y=4575.996 Z=849.932) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11990.000 Y=100.000 Z=0.000), Max=(X=12090.000 Y=12200.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:517F03394BF45FF567C792A7564634C8 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1475988958 Label:BPI_Fade_Mesh_wall7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5690.000 Y=2490.000 Z=0.000), Max=(X=5710.000 Y=4590.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:5A14B2664FC04BB0D13595A8DE11E1C7 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_2014162962 Label:BPI_Fade_Mesh_floor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4805.517 Y=4150.000 Z=395.757), Max=(X=5308.939 Y=4550.000 Z=530.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:6E6431F3460F325AABF17D8A7B17CB8B BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1756370961 Label:BPI_Fade_Mesh_floor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5270.000 Y=3930.000 Z=410.000), Max=(X=5670.000 Y=4556.781 Z=430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:7F290CE9436A0549D34E5EA0FF7ACA28 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1434738139 Label:BPI_Fade_Mesh_wall8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2800.000 Y=4570.000 Z=500.000), Max=(X=5715.002 Y=4590.000 Z=850.213) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:A4102F8F4FE2C6E5865003B21D334982 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1474196957 Label:BPI_Fade_Mesh_wall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2520.000 Z=520.000), Max=(X=2800.000 Y=4575.996 Z=847.939) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:A56216954B2165CF0F35A886B537D536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=12275.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:AF050DE04A57DADD335262B87B461600 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1470815956 Label:BPI_Fade_Mesh_wall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4550.000 Y=4820.000 Z=0.000), Max=(X=4950.000 Y=4840.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:BC08B79C4EA3C961CFF75EBBE83B367D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12125.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:BD93BBBA4EAB5A20C85683BE112581F3 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935FB701_1481674141 Label:BPI_Fade_Mesh_floor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2520.000 Z=850.000), Max=(X=5717.885 Y=4569.942 Z=870.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:C5BB6F6E48D219DEDCD740BABD517A3C BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1465890955 Label:BPI_Fade_Mesh_wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4080.000 Y=4850.000 Z=0.000), Max=(X=4480.000 Y=4870.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:C7FFCC9B47D9B63114BB729BB2BB5F31 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1636932959 Label:BPI_Fade_Mesh_floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2780.000 Y=2510.000 Z=500.000), Max=(X=4780.000 Y=4573.029 Z=520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:E57BB630434167DFC750D9843A35AFE3 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_floor.BPI_Fade_Mesh_floor_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1717804960 Label:BPI_Fade_Mesh_floor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5280.000 Y=2710.000 Z=-28.794), Max=(X=5680.000 Y=3938.441 Z=434.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=12125.000 Y=12225.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:F4A640E0424A41C7BBD0E0B4A2272261 BaseClass:/Game/Blueprints/WorldObjects/BPI_Fade_Mesh_wall.BPI_Fade_Mesh_wall_C NativeClass:/Script/Engine.Actor Name:BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1419515952 Label:BPI_Fade_Mesh_wall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2790.000 Y=2500.000 Z=0.000), Max=(X=5690.000 Y=2520.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12170.000 Z=0.000), Max=(X=12100.000 Y=12270.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 37 
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_C_UAID_FC3497DE3B9352B701_1982883841
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/R9/HDHD3ZJDUPPKW5CYJ780LY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1636932959
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TF/BJJQFAODL4WEE8UTB41RCZ
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1717804960
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/O6/2DUY396U3DV4WGI2BO592J
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_1756370961
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3R/C9950PCUMC7N8LCRTH38UA
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935EB701_2014162962
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JT/C652649CK7MMHUFAVBMW2Y
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_floor_C_UAID_FC3497DE3B935FB701_1481674141
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9C/ZWODSLO3LPLV9YW8U8O6KY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1419515952
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J6/MVOV5292MCROR8KG8HE3B1
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1463157953
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1N/VW4R9WSMLAYW3TO7B2TB2Z
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1464432954
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K1/MDKNYNUZ3PPP7WXY19XDC6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1465890955
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JP/QIHL5OCYHBX3KJPCE0CTEY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1470815956
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5F/CV6H51ADWYMDSSC2PQ64KS
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1474196957
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N5/IJIM2LP6PK5XDLB0F560JP
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935EB701_1475988958
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/75/9AI4GY7Z48ZGM0BRAIUK9H
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1434738139
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/51/KW1PKZB20BLSMLLHVWXACG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPI_Fade_Mesh_wall_C_UAID_FC3497DE3B935FB701_1449279140
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PV/5OIRCSLA89PM35KZVJY021
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
