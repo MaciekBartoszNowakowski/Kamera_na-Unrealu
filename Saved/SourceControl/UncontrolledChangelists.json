@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J9/MZT525S5NYHXYUVYVIDGJR.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/G1/480QNMTC2IZU2TIT25JOT9.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/89/LBUMOLM7JYSHDD0NPS7U2M.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/C2/FURCO30LNCAJTG233WG0CD.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LI/AXIUMADQF2B0MXJ5OX6QT4.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZY/6TTQLH4F8TE8WTJNIVPOSP.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P9/WXYJD6WRLBDFZ1UUNFUXO9.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AO/JA7DUAQMGJ8Z63E5AVUH6I.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RX/2N09L7HPEV03GQBAXNU3FF.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GG/8V0QHY5DW9ZIS6WLDP3D4T.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F7/AG0RDE84XHJMHNK7CR1J1D.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XK/JGCNOEYCIR7Y8U1P89F5A2.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0Q/YXA7UXPYOI2KCMVEZYHF4K.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/Blueprints/WorldObjects/BPI_Fade_Mesh.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/Materials/M_Fade.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MD/TTDL267T7HANQV6WXL11A7.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/R9/HDHD3ZJDUPPKW5CYJ780LY.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/Blueprints/Iface/BPI_Fade_Interface.uasset",
+				"C:/Users/macie/Documents/Unreal Projects/MyProject/Content/Blueprints/WorldObjects/BPI_.uasset"
+			]
+		}
+	]
+}
